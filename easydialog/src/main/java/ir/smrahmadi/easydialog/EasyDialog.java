@@ -10,6 +10,7 @@ import android.content.DialogInterface;
 
 public class EasyDialog {
 
+
     public void oneItem(Context context , String title , String message , int icon , String item , final showClickOneItem callback ){
 
         DialogInterface.OnClickListener dialogClickListener = new DialogInterface.OnClickListener() {
