@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Btn_two = (Button) findViewById(R.id.two);
         btn_three = (Button) findViewById(R.id.three);
 
+
         btn_one.setOnClickListener(this);
         Btn_two.setOnClickListener(this);
         btn_three.setOnClickListener(this);
