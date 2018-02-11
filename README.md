@@ -7,13 +7,13 @@ Simple, with the support of Material Design
 
 ## Instalation ##
 <br/>
+
 ### with jcenter ###
 Add the dependency
 ```
 	dependencies {
 	        compile 'ir.smrahmadi:easydialog:0.0.1'
 	}
-	
 ```
 
 ### with jitpack ###
@@ -24,17 +24,18 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  
 ```
 
 Step 2. Add the dependency
+
 ```
 	dependencies {
 	        compile 'com.github.smrahmadi:EasyDialog:-SNAPSHOT'
 	}
-  
 ```
+
 - - - -
+
 ## How To use  ##
 its Very Easy
 
