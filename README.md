@@ -6,6 +6,17 @@ Simple, with the support of Material Design
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/28293828/36064629-2827560a-0ea3-11e8-8ca9-3b11a6de5b4b.gif)
 
 ## Instalation ##
+<br/>
+### with jcenter ###
+Add the dependency
+```
+	dependencies {
+	        compile 'ir.smrahmadi:easydialog:0.0.1'
+	}
+	
+```
+
+### with jitpack ###
 Step 1. Add the JitPack repository to your build file<br/>
 ```	
 allprojects {
