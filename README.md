@@ -1,4 +1,4 @@
-# DEPRECATED THIS REPOSITORY IS NOT MAINTAINED
+# DEPRECATED!!! THIS REPOSITORY IS NOT MAINTAINED
 # EasyDialog
 
 A library for easy programming of dialogs on Android .<br/>
