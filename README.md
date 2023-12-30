@@ -1,5 +1,5 @@
 # DEPRECATED!!! THIS REPOSITORY IS NOT MAINTAINED
-# EasyDialog
+## EasyDialog
 
 A library for easy programming of dialogs on Android .<br/>
 Simple, with the support of Material Design
